@@ -3,6 +3,7 @@ Thumbs.db
 *.swp
 *.swo
 *~
+tmp_scaffold.ps1
 
 .env
 .env.*
