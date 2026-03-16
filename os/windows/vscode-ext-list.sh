@@ -1,4 +1,4 @@
-# zsh script to iterate over the extensions.txt file and pull the matching vs code ext from the marketplace
+# shell script to iterate over the extensions.txt file and pull the matching vs code ext from the marketplace
 while read ext; do
   name=$(echo $ext | cut -d@ -f1)
   version=$(echo $ext | cut -d@ -f2)

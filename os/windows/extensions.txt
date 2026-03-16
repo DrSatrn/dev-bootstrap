@@ -1,3 +1,4 @@
+# last updated March 13 2026
 batisteo.vscode-django
 davidanson.vscode-markdownlint
 dbtlabsinc.dbt
