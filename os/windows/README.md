@@ -9,5 +9,5 @@ Setup instructions for a new windows work machine from scratch. Tooling installe
 Shell script that iterates over a list of .vsix extension names (extensions.txt) and downloads the required extensions from the VS Code extension marketplace
 
 ### wsl-bootstrap.sh
-Shell command to configure a linux distro from scratch if copying a .tar file is not an option for whatever reason. \n
-**NOTE**    this .sh script is basically the same as the file `/dev-bootstrap/os/linux/setup.sh` with some tweaks specific to a pre-installed wsl instance.
+Shell command to configure a linux distro from scratch if copying a .tar file is not an option for whatever reason.  
+**NOTE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this .sh script is basically the same as the file `/dev-bootstrap/os/linux/setup.sh` with some tweaks specific to a pre-installed wsl instance.
